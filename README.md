@@ -9,6 +9,5 @@
 **언어 및 도구**  
 
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
-<code><img height="20" src="https://github.com/user-attachments/assets/c9061fbe-7b65-42b0-9ed2-b4fdceccbd9e"></code>
 <code><img height="20" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fblex5t%2FbtrYUvAbmZx%2FWRsHeLj08BrvCODQrYLC71%2Fimg.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></code>
