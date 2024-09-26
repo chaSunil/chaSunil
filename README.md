@@ -13,3 +13,8 @@
 <code> 디아블로2 경매장 : https://github.com/chaSunil/GameAuction </code>
 
 <code> 보드게임 보드밍 : https://github.com/chaSunil/FirstProject </code>
+
+<br/>
+
+* ❗ 트러블 슈팅 : https://github.com/chaSunil/troubleShooting
+* ✅ 기술 작성 : https://github.com/chaSunil/skillGuild
