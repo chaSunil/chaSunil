@@ -88,7 +88,7 @@
 <div align="center">
 <a href="mailto:cktjsdlf4636@naver.com">
     <img
-      src="https://img.shields.io/badge/cktjsdlf4636@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/cktjsdlf4636@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 
   
