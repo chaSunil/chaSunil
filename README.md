@@ -10,9 +10,9 @@
 
 ### 👋 포트폴리오
 
-<code> 변호사 소개 사이트 WBC(1인개발) : https://webbusinesscard.co.kr </code>
-
 <code> 피규어 쇼핑몰 : https://github.com/chaSunil/Figurium </code>
+
+<code> 변호사 소개 사이트 WBC(1인개발) : https://github.com/chaSunil/WBC001 </code>
 
 <code> 디아블로2 경매장 : https://github.com/chaSunil/GameAuction </code>
 
