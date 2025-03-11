@@ -32,6 +32,7 @@
 
 ❗ 트러블 슈팅 : https://github.com/chaSunil/troubleShooting
 ✅ 기술 작성 : https://github.com/chaSunil/skillGuild
+웹사이트 분석 : https://github.com/chaSunil/WebPlanning
 
 </div>
 
