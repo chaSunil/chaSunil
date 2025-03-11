@@ -4,6 +4,19 @@
 
 😎 4차산업에 걸맞는 기술들을 사용하기 위해 고민하겠습니다.
 
+
+### 👋 포트폴리오 편리하게 보기 좋은 영상
+
+<code> 피규어 쇼핑몰 : https://www.youtube.com/watch?v=jBbnhelniFM </code>
+
+<code> 변호사 소개 사이트 WBC(1인개발) : https://www.youtube.com/watch?v=Izi_KcemAw8 </code>
+<code> WBC 관리자 페이지 : https://www.youtube.com/watch?v=pyXU3a2sy8U </code>
+
+<code> 디아블로2 경매장 : https://github.com/chaSunil/GameAuction </code>
+
+<code> 보드게임 보드밍 : https://github.com/chaSunil/FirstProject </code>
+
+
 ### 👋 포트폴리오
 
 <code> 피규어 쇼핑몰 : https://github.com/chaSunil/Figurium </code>
