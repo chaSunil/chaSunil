@@ -13,11 +13,6 @@
 
 <code> WBC 관리자 페이지 : https://www.youtube.com/watch?v=pyXU3a2sy8U </code>
 
-<code> 디아블로2 경매장 : https://github.com/chaSunil/GameAuction </code>
-
-<code> 보드게임 보드밍 : https://github.com/chaSunil/FirstProject </code>
-
-
 ### 👋 포트폴리오
 
 <code> 피규어 쇼핑몰 : https://github.com/chaSunil/Figurium </code>
